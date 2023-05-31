@@ -43,7 +43,7 @@
     <maven.compiler.source>8</maven.compiler.source>
     <maven.compiler.target>8</maven.compiler.target>
     <pulsar.groupId>org.apache.pulsar</pulsar.groupId>
-    <pulsar.version>2.10.2</pulsar.version>
+    <pulsar.version>3.0.0</pulsar.version>
     <qpid.version>8.0.6</qpid.version>
     <failsafe.version>2.4.2</failsafe.version>
     <curator.version>5.1.0</curator.version>
